@@ -113,7 +113,3 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
-
-int resta(int num1, int num2) {
-  return num1 - num2;
-}
