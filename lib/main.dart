@@ -113,3 +113,7 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+
+double multiplicar(double num1, double num2) {
+  return num1 * num2;
+}
